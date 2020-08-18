@@ -15,7 +15,8 @@ class PanoCover extends React.Component {
                     <Card>
                         <Header size='huge'>
                             The date is &nbsp;
-                    <Clock
+                    <
+                        Clock
                                 format="MMM D"
                                 timezone={getTimezone()}
                                 ticking
