@@ -61,7 +61,7 @@ class PanoCover extends React.Component {
                         </Grid.Column>
                     </Grid.Row>
                 </Grid>
-                <WordCloud word='PHP sucks.'/>
+                <WordCloud word='Asynchronous programing is so hard!'/>
             </>
         )
     }
